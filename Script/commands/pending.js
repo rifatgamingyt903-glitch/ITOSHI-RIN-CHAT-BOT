@@ -30,7 +30,7 @@ ${global.config.PREFIX}admin
 ➤ 𝖳𝗂𝗄 𝖳𝗈𝗄: @iam_rifat
 
 ❖⋆═══════════════════════⋆❖
-      𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 ➢ 𝙍𝙞𝙛𝙖𝙩 𝘼𝙝𝙢𝙚𝙙`,
+      𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 ➢ 𝐑𝐢𝐟𝐚𝐭 𝐀𝐡𝐦𝐞𝐝`,
     "approveSuccess": "✅ Successfully approved %1 group(s)!",
     "cantGetPendingList": "❌ Failed to retrieve pending list!",
     "returnListPending": "📝 𝗣𝗘𝗡𝗗𝗜𝗡𝗚 𝗟𝗜𝗦𝗧\n\nTotal groups awaiting approval: %1\n\n%2\n\nReply with the number(s) to approve or 'c' followed by number(s) to reject (e.g., 1 2 3 or c1 c2)",
