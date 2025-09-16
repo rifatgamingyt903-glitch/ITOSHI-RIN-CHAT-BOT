@@ -8,7 +8,7 @@ const baseApiUrl = async () => {
 
 module.exports = {
  config: {
- name: "youtube",
+ name: "ytb",
  version: "1.1.4",
  credits: "dipto",
  countDown: 5,
