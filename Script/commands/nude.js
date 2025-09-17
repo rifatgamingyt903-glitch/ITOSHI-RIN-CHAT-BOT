@@ -1,7 +1,7 @@
 const axios = require("axios");
 
 module.exports.config = {
-    name: "animegirl", // change command name
+    name: "nude", // change command name
     version: "1.0.0",
     hasPermssion: 0,
     credits: "MMRifat",
