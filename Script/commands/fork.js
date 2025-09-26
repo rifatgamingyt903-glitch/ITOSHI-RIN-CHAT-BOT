@@ -11,7 +11,7 @@ cooldowns: 3,
 
 module.exports.run = async function({ api, event }) {
 return api.sendMessage(
-"🔗 GitHub Repo Link:\n\nhttps://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT.git",
+"https://github.com/rifatgamingyt903-glitch/ITOSHI-RIN-CHAT-BOT.git",
 event.threadID,
 event.messageID
 );
