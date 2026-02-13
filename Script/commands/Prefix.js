@@ -36,7 +36,7 @@ module.exports.handleEvent = async ({ event, api, Threads }) => {
 『 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎 』
 
 ➤ 𝗕𝗼𝘁 𝗽𝗿𝗲𝗳𝗶𝘅 : [ ${prefix} ]
-➤ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲   : Ꮢᴏ֟፝zꫝㅤᏴꫝ֟፝ʙ𝚈
+➤ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲   : Lɪ ♡ Sʜɪʏᴀ 🌷
 ➤ 𝗕𝗼𝘁 𝗔𝗱𝗺𝗶𝗻 : 𝗫𝗶𝘁 𝗭𝗲𝗳𝗼𝘅
 
 『 𝐁𝐎𝐗 𝐈𝐍𝐅𝐎 』
